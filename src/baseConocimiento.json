@@ -1,0 +1,160 @@
+{
+    "pregunta": "¿Tu personaje es humano?",
+    "si": {
+      "pregunta": "¿Tu personaje es un superhéroe?",
+      "si": {
+        "pregunta": "¿Tu personaje puede volar?",
+        "si": {
+          "personaje": "Superman"
+        },
+        "no": {
+          "pregunta": "¿Tu personaje usa una capa?",
+          "si": {
+            "personaje": "Batman"
+          },
+          "no": {
+            "pregunta": "¿Tu personaje es muy rápido?",
+            "si": {
+              "personaje": "Flash"
+            },
+            "no": {
+              "personaje": "Wonder Woman"
+            }
+          }
+        }
+      },
+      "no": {
+        "pregunta": "¿Tu personaje es un niño o adolescente?",
+        "si": {
+          "pregunta": "¿Tu personaje tiene un equipo de amigos?",
+          "si": {
+            "pregunta": "¿Tu personaje pelea contra villanos?",
+            "si": {
+              "personaje": "Robin (Jóvenes Titanes)"
+            },
+            "no": {
+              "pregunta": "¿Tu personaje está en una escuela?",
+              "si": {
+                "personaje": "Timmy Turner (Los Padrinos Mágicos)"
+              },
+              "no": {
+                "personaje": "Ash Ketchum (Pokémon)"
+              }
+            }
+          },
+          "no": {
+            "pregunta": "¿Tu personaje tiene poderes mágicos?",
+            "si": {
+              "personaje": "Harry Potter"
+            },
+            "no": {
+              "personaje": "Shaggy (Scooby-Doo)"
+            }
+          }
+        },
+        "no": {
+          "pregunta": "¿Tu personaje es un adulto?",
+          "si": {
+            "pregunta": "¿Tu personaje es muy inteligente?",
+            "si": {
+              "personaje": "Rick (Rick y Morty)"
+            },
+            "no": {
+              "pregunta": "¿Tu personaje es perezoso y come mucho?",
+              "si": {
+                "personaje": "Homero Simpson"
+              },
+              "no": {
+                "pregunta": "¿Tu personaje trabaja en una oficina?",
+                "si": {
+                  "personaje": "Bob Esponja"
+                },
+                "no": {
+                  "personaje": "Stan Smith (American Dad)"
+                }
+              }
+            }
+          },
+          "no": {
+            "personaje": "Dora la Exploradora"
+          }
+        }
+      }
+    },
+    "no": {
+      "pregunta": "¿Tu personaje es un animal?",
+      "si": {
+        "pregunta": "¿Tu personaje es un mamífero?",
+        "si": {
+          "pregunta": "¿Tu personaje es un perro?",
+          "si": {
+            "pregunta": "¿Tu personaje resuelve misterios?",
+            "si": {
+              "personaje": "Scooby-Doo"
+            },
+            "no": {
+              "personaje": "Brian (Padre de Familia)"
+            }
+          },
+          "no": {
+            "pregunta": "¿Tu personaje es un ratón?",
+            "si": {
+              "personaje": "Mickey Mouse"
+            },
+            "no": {
+              "pregunta": "¿Tu personaje es un gato?",
+              "si": {
+                "personaje": "Tom (Tom y Jerry)"
+              },
+              "no": {
+                "personaje": "BoJack Horseman"
+              }
+            }
+          }
+        },
+        "no": {
+          "pregunta": "¿Tu personaje es un reptil?",
+          "si": {
+            "pregunta": "¿Tu personaje es una tortuga?",
+            "si": {
+              "personaje": "Leonardo (Tortugas Ninja)"
+            },
+            "no": {
+              "personaje": "Dinosaurio Barney"
+            }
+          },
+          "no": {
+            "pregunta": "¿Tu personaje vive bajo el agua?",
+            "si": {
+              "personaje": "Patricio Estrella (Bob Esponja)"
+            },
+            "no": {
+              "personaje": "Pikachu (Pokémon)"
+            }
+          }
+        }
+      },
+      "no": {
+        "pregunta": "¿Tu personaje es un ser fantástico?",
+        "si": {
+          "pregunta": "¿Tu personaje vive en un mundo de magia?",
+          "si": {
+            "personaje": "Jake el perro (Hora de Aventura)"
+          },
+          "no": {
+            "pregunta": "¿Tu personaje es un extraterrestre?",
+            "si": {
+              "personaje": "Marvin el Marciano (Looney Tunes)"
+            },
+            "no": {
+              "personaje": "Fiona (Shrek)"
+            }
+          }
+        },
+        "no": {
+          "personaje": "Sonic el Erizo"
+        }
+      }
+    }
+  }
+  
