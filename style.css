@@ -33,3 +33,9 @@ gap: 10px; /* Espacio entre los botones */
 #botonReiniciar {
 margin-top: 20px; /* Separación con los otros botones */
 }
+
+img {
+  width: 300px;
+  height: auto;
+  padding: 15px 0 15px 0;
+}
